@@ -1,0 +1,1001 @@
+,Order ID,Products,Quantity ordered,Price each,Ordered date,Purchase Address
+0,0,Back to school,5,546,NA,NA
+1,1,BudgetsBids and quotes,1,565,NA,NA
+2,2,Calendars,5,579,NA,NA
+3,3,Business cards,3,547,NA,NA
+4,4,Agendas,3,598,NA,NA
+5,5,Brochures,1,538,NA,NA
+6,6,Animation and 3D,1,534,NA,NA
+7,7,Christmas,5,547,NA,NA
+8,8,Agendas,5,598,NA,NA
+9,9,Animation and 3D,5,534,NA,NA
+10,10,Business cards,2,547,NA,NA
+11,11,Birthday,3,557,NA,NA
+12,12,Certificates,1,559,NA,NA
+13,13,Business plans,1,600,NA,NA
+14,14,Business cards,4,547,NA,NA
+15,15,Baby,4,539,NA,NA
+16,16,Agendas,3,598,NA,NA
+17,17,Calendars,4,579,NA,NA
+18,18,Back to school,1,546,NA,NA
+19,19,Back to school,2,546,NA,NA
+20,20,Blank and general,5,593,NA,NA
+21,21,Charts,5,565,NA,NA
+22,22,Autumn,3,553,NA,NA
+23,23,Agendas,3,598,NA,NA
+24,24,All holidays,4,595,NA,NA
+25,25,BudgetsBids and quotes,4,565,NA,NA
+26,26,Christmas,5,547,NA,NA
+27,27,Cards,5,589,NA,NA
+28,28,Agendas,5,598,NA,NA
+29,29,Cards,4,589,NA,NA
+30,30,Animation and 3D,1,534,NA,NA
+31,31,Baby,3,539,NA,NA
+32,32,All holidays,1,595,NA,NA
+33,33,Certificates,4,559,NA,NA
+34,34,BudgetsBids and quotes,2,565,NA,NA
+35,35,BudgetsBids and quotes,4,565,NA,NA
+36,36,Announcements,4,512,NA,NA
+37,37,Charts,1,565,NA,NA
+38,38,Back to school,2,546,NA,NA
+39,39,Autumn,2,553,NA,NA
+40,40,Cards,4,589,NA,NA
+41,41,Back to school,5,546,NA,NA
+42,42,Business plans,2,600,NA,NA
+43,43,BudgetsBids and quotes,2,565,NA,NA
+44,44,Cards,1,589,NA,NA
+45,45,Christmas,3,547,NA,NA
+46,46,Blank and general,5,593,NA,NA
+47,47,Back to school,2,546,NA,NA
+48,48,Announcements,4,512,NA,NA
+49,49,Brochures,5,538,NA,NA
+50,50,Business plans,3,600,NA,NA
+51,51,Back to school,4,546,NA,NA
+52,52,Birthday,5,557,NA,NA
+53,53,Brochures,2,538,NA,NA
+54,54,Baby,2,539,NA,NA
+55,55,Animation and 3D,1,534,NA,NA
+56,56,Business plans,3,600,NA,NA
+57,57,All holidays,4,595,NA,NA
+58,58,Business plans,2,600,NA,NA
+59,59,Address books,1,568,NA,NA
+60,60,BudgetsBids and quotes,5,565,NA,NA
+61,61,Announcements,4,512,NA,NA
+62,62,Agendas,3,598,NA,NA
+63,63,Announcements,2,512,NA,NA
+64,64,Autumn,4,553,NA,NA
+65,65,Baby,5,539,NA,NA
+66,66,Cards,3,589,NA,NA
+67,67,Cards,5,589,NA,NA
+68,68,Business plans,1,600,NA,NA
+69,69,Business cards,1,547,NA,NA
+70,70,Cards,2,589,NA,NA
+71,71,Certificates,1,559,NA,NA
+72,72,Blank and general,4,593,NA,NA
+73,73,Charts,5,565,NA,NA
+74,74,BudgetsBids and quotes,2,565,NA,NA
+75,75,Address books,3,568,NA,NA
+76,76,Certificates,5,559,NA,NA
+77,77,Birthday,5,557,NA,NA
+78,78,Business cards,1,547,NA,NA
+79,79,Announcements,2,512,NA,NA
+80,80,Certificates,5,559,NA,NA
+81,81,Business cards,4,547,NA,NA
+82,82,Agendas,5,598,NA,NA
+83,83,Address books,1,568,NA,NA
+84,84,Business cards,2,547,NA,NA
+85,85,Announcements,4,512,NA,NA
+86,86,Blank and general,4,593,NA,NA
+87,87,Cards,2,589,NA,NA
+88,88,Address books,4,568,NA,NA
+89,89,Charts,3,565,NA,NA
+90,90,Certificates,5,559,NA,NA
+91,91,Cards,3,589,NA,NA
+92,92,Agendas,2,598,NA,NA
+93,93,Brochures,4,538,NA,NA
+94,94,Back to school,2,546,NA,NA
+95,95,Announcements,1,512,NA,NA
+96,96,Blank and general,3,593,NA,NA
+97,97,Brochures,3,538,NA,NA
+98,98,Certificates,1,559,NA,NA
+99,99,Business cards,3,547,NA,NA
+100,100,Certificates,1,559,NA,NA
+101,101,Cards,5,589,NA,NA
+102,102,Business plans,2,600,NA,NA
+103,103,Business plans,3,600,NA,NA
+104,104,Brochures,4,538,NA,NA
+105,105,Business cards,2,547,NA,NA
+106,106,Cards,2,589,NA,NA
+107,107,Business cards,1,547,NA,NA
+108,108,Christmas,3,547,NA,NA
+109,109,Calendars,4,579,NA,NA
+110,110,Address books,2,568,NA,NA
+111,111,Agendas,3,598,NA,NA
+112,112,Certificates,4,559,NA,NA
+113,113,Business plans,1,600,NA,NA
+114,114,Certificates,3,559,NA,NA
+115,115,Christmas,5,547,NA,NA
+116,116,Brochures,2,538,NA,NA
+117,117,BudgetsBids and quotes,5,565,NA,NA
+118,118,Business cards,4,547,NA,NA
+119,119,Address books,5,568,NA,NA
+120,120,Blank and general,2,593,NA,NA
+121,121,Cards,1,589,NA,NA
+122,122,Charts,1,565,NA,NA
+123,123,Calendars,5,579,NA,NA
+124,124,Animation and 3D,2,534,NA,NA
+125,125,Business cards,1,547,NA,NA
+126,126,Charts,1,565,NA,NA
+127,127,Birthday,5,557,NA,NA
+128,128,Baby,3,539,NA,NA
+129,129,Baby,5,539,NA,NA
+130,130,Address books,2,568,NA,NA
+131,131,Cards,1,589,NA,NA
+132,132,Calendars,3,579,NA,NA
+133,133,Blank and general,4,593,NA,NA
+134,134,All holidays,5,595,NA,NA
+135,135,Animation and 3D,2,534,NA,NA
+136,136,Blank and general,2,593,NA,NA
+137,137,Autumn,5,553,NA,NA
+138,138,Blank and general,1,593,NA,NA
+139,139,Certificates,1,559,NA,NA
+140,140,Business cards,2,547,NA,NA
+141,141,Certificates,2,559,NA,NA
+142,142,Cards,4,589,NA,NA
+143,143,Charts,4,565,NA,NA
+144,144,Agendas,5,598,NA,NA
+145,145,Brochures,3,538,NA,NA
+146,146,All holidays,2,595,NA,NA
+147,147,Cards,2,589,NA,NA
+148,148,Business cards,5,547,NA,NA
+149,149,Business cards,3,547,NA,NA
+150,150,Business cards,4,547,NA,NA
+151,151,All holidays,4,595,NA,NA
+152,152,Baby,3,539,NA,NA
+153,153,Business cards,4,547,NA,NA
+154,154,Christmas,5,547,NA,NA
+155,155,Address books,3,568,NA,NA
+156,156,Calendars,3,579,NA,NA
+157,157,All holidays,3,595,NA,NA
+158,158,Brochures,2,538,NA,NA
+159,159,Baby,5,539,NA,NA
+160,160,Autumn,3,553,NA,NA
+161,161,Blank and general,3,593,NA,NA
+162,162,Back to school,4,546,NA,NA
+163,163,Autumn,5,553,NA,NA
+164,164,BudgetsBids and quotes,2,565,NA,NA
+165,165,Animation and 3D,2,534,NA,NA
+166,166,Animation and 3D,2,534,NA,NA
+167,167,Animation and 3D,2,534,NA,NA
+168,168,Address books,4,568,NA,NA
+169,169,Autumn,2,553,NA,NA
+170,170,Business cards,1,547,NA,NA
+171,171,Charts,3,565,NA,NA
+172,172,Brochures,4,538,NA,NA
+173,173,Business cards,5,547,NA,NA
+174,174,Charts,3,565,NA,NA
+175,175,Announcements,5,512,NA,NA
+176,176,Address books,1,568,NA,NA
+177,177,Charts,1,565,NA,NA
+178,178,Cards,5,589,NA,NA
+179,179,Address books,1,568,NA,NA
+180,180,Blank and general,4,593,NA,NA
+181,181,Address books,3,568,NA,NA
+182,182,Blank and general,3,593,NA,NA
+183,183,Charts,3,565,NA,NA
+184,184,Cards,5,589,NA,NA
+185,185,Birthday,1,557,NA,NA
+186,186,Agendas,2,598,NA,NA
+187,187,Business plans,4,600,NA,NA
+188,188,Blank and general,2,593,NA,NA
+189,189,Announcements,1,512,NA,NA
+190,190,Back to school,2,546,NA,NA
+191,191,Christmas,5,547,NA,NA
+192,192,Agendas,3,598,NA,NA
+193,193,BudgetsBids and quotes,2,565,NA,NA
+194,194,Announcements,2,512,NA,NA
+195,195,Announcements,1,512,NA,NA
+196,196,Autumn,5,553,NA,NA
+197,197,Cards,1,589,NA,NA
+198,198,Agendas,3,598,NA,NA
+199,199,Christmas,2,547,NA,NA
+200,200,BudgetsBids and quotes,4,565,NA,NA
+201,201,Address books,3,568,NA,NA
+202,202,Birthday,3,557,NA,NA
+203,203,Certificates,5,559,NA,NA
+204,204,Christmas,5,547,NA,NA
+205,205,Christmas,3,547,NA,NA
+206,206,Address books,1,568,NA,NA
+207,207,Baby,3,539,NA,NA
+208,208,Address books,5,568,NA,NA
+209,209,Back to school,3,546,NA,NA
+210,210,Autumn,5,553,NA,NA
+211,211,Cards,1,589,NA,NA
+212,212,Christmas,1,547,NA,NA
+213,213,Christmas,3,547,NA,NA
+214,214,Back to school,3,546,NA,NA
+215,215,Business plans,1,600,NA,NA
+216,216,Baby,2,539,NA,NA
+217,217,Business cards,2,547,NA,NA
+218,218,Back to school,1,546,NA,NA
+219,219,Charts,2,565,NA,NA
+220,220,Back to school,4,546,NA,NA
+221,221,Birthday,5,557,NA,NA
+222,222,Brochures,5,538,NA,NA
+223,223,BudgetsBids and quotes,5,565,NA,NA
+224,224,Agendas,2,598,NA,NA
+225,225,Birthday,5,557,NA,NA
+226,226,Baby,1,539,NA,NA
+227,227,Birthday,2,557,NA,NA
+228,228,All holidays,2,595,NA,NA
+229,229,Cards,2,589,NA,NA
+230,230,Certificates,2,559,NA,NA
+231,231,All holidays,5,595,NA,NA
+232,232,All holidays,2,595,NA,NA
+233,233,Brochures,4,538,NA,NA
+234,234,Business cards,2,547,NA,NA
+235,235,Charts,5,565,NA,NA
+236,236,Calendars,1,579,NA,NA
+237,237,Autumn,4,553,NA,NA
+238,238,Business cards,2,547,NA,NA
+239,239,Certificates,2,559,NA,NA
+240,240,Animation and 3D,5,534,NA,NA
+241,241,Brochures,1,538,NA,NA
+242,242,Back to school,3,546,NA,NA
+243,243,Business cards,5,547,NA,NA
+244,244,Certificates,4,559,NA,NA
+245,245,Birthday,1,557,NA,NA
+246,246,Charts,4,565,NA,NA
+247,247,Business cards,4,547,NA,NA
+248,248,Agendas,1,598,NA,NA
+249,249,Agendas,2,598,NA,NA
+250,250,Certificates,5,559,NA,NA
+251,251,Christmas,2,547,NA,NA
+252,252,Certificates,4,559,NA,NA
+253,253,Christmas,4,547,NA,NA
+254,254,Brochures,4,538,NA,NA
+255,255,Blank and general,5,593,NA,NA
+256,256,Cards,3,589,NA,NA
+257,257,Animation and 3D,4,534,NA,NA
+258,258,All holidays,2,595,NA,NA
+259,259,Business cards,1,547,NA,NA
+260,260,Brochures,2,538,NA,NA
+261,261,Agendas,3,598,NA,NA
+262,262,Cards,3,589,NA,NA
+263,263,Certificates,3,559,NA,NA
+264,264,Blank and general,4,593,NA,NA
+265,265,Calendars,5,579,NA,NA
+266,266,Charts,1,565,NA,NA
+267,267,Address books,4,568,NA,NA
+268,268,All holidays,3,595,NA,NA
+269,269,BudgetsBids and quotes,3,565,NA,NA
+270,270,Charts,1,565,NA,NA
+271,271,Certificates,2,559,NA,NA
+272,272,Autumn,4,553,NA,NA
+273,273,BudgetsBids and quotes,4,565,NA,NA
+274,274,Blank and general,5,593,NA,NA
+275,275,Certificates,3,559,NA,NA
+276,276,All holidays,3,595,NA,NA
+277,277,Business cards,5,547,NA,NA
+278,278,All holidays,4,595,NA,NA
+279,279,Baby,1,539,NA,NA
+280,280,Cards,5,589,NA,NA
+281,281,Autumn,2,553,NA,NA
+282,282,Back to school,5,546,NA,NA
+283,283,Brochures,1,538,NA,NA
+284,284,Business cards,4,547,NA,NA
+285,285,Animation and 3D,5,534,NA,NA
+286,286,Blank and general,1,593,NA,NA
+287,287,Certificates,5,559,NA,NA
+288,288,Brochures,5,538,NA,NA
+289,289,Autumn,5,553,NA,NA
+290,290,Autumn,5,553,NA,NA
+291,291,Blank and general,5,593,NA,NA
+292,292,Calendars,1,579,NA,NA
+293,293,Animation and 3D,2,534,NA,NA
+294,294,Baby,3,539,NA,NA
+295,295,Announcements,1,512,NA,NA
+296,296,Address books,1,568,NA,NA
+297,297,Blank and general,1,593,NA,NA
+298,298,BudgetsBids and quotes,4,565,NA,NA
+299,299,Address books,3,568,NA,NA
+300,300,Brochures,3,538,NA,NA
+301,301,Brochures,1,538,NA,NA
+302,302,Business plans,5,600,NA,NA
+303,303,Autumn,5,553,NA,NA
+304,304,Certificates,5,559,NA,NA
+305,305,Back to school,1,546,NA,NA
+306,306,Christmas,3,547,NA,NA
+307,307,Cards,4,589,NA,NA
+308,308,Back to school,1,546,NA,NA
+309,309,Address books,5,568,NA,NA
+310,310,Certificates,5,559,NA,NA
+311,311,Birthday,1,557,NA,NA
+312,312,Autumn,2,553,NA,NA
+313,313,Agendas,4,598,NA,NA
+314,314,Address books,2,568,NA,NA
+315,315,Calendars,4,579,NA,NA
+316,316,Agendas,4,598,NA,NA
+317,317,Agendas,5,598,NA,NA
+318,318,Charts,1,565,NA,NA
+319,319,Christmas,3,547,NA,NA
+320,320,Charts,4,565,NA,NA
+321,321,Business plans,1,600,NA,NA
+322,322,Christmas,3,547,NA,NA
+323,323,Business plans,1,600,NA,NA
+324,324,Charts,3,565,NA,NA
+325,325,Christmas,3,547,NA,NA
+326,326,Back to school,4,546,NA,NA
+327,327,Business cards,4,547,NA,NA
+328,328,Agendas,2,598,NA,NA
+329,329,BudgetsBids and quotes,1,565,NA,NA
+330,330,Back to school,5,546,NA,NA
+331,331,Address books,1,568,NA,NA
+332,332,Back to school,2,546,NA,NA
+333,333,Cards,5,589,NA,NA
+334,334,Charts,2,565,NA,NA
+335,335,Brochures,3,538,NA,NA
+336,336,Charts,3,565,NA,NA
+337,337,Business cards,3,547,NA,NA
+338,338,BudgetsBids and quotes,3,565,NA,NA
+339,339,Cards,3,589,NA,NA
+340,340,Cards,1,589,NA,NA
+341,341,Business cards,5,547,NA,NA
+342,342,Business plans,4,600,NA,NA
+343,343,Cards,3,589,NA,NA
+344,344,All holidays,1,595,NA,NA
+345,345,Announcements,4,512,NA,NA
+346,346,Cards,5,589,NA,NA
+347,347,Business plans,5,600,NA,NA
+348,348,Autumn,2,553,NA,NA
+349,349,Announcements,4,512,NA,NA
+350,350,Brochures,5,538,NA,NA
+351,351,Birthday,3,557,NA,NA
+352,352,Business cards,3,547,NA,NA
+353,353,Cards,4,589,NA,NA
+354,354,Certificates,1,559,NA,NA
+355,355,Animation and 3D,4,534,NA,NA
+356,356,Cards,4,589,NA,NA
+357,357,Back to school,4,546,NA,NA
+358,358,Animation and 3D,3,534,NA,NA
+359,359,Baby,1,539,NA,NA
+360,360,Birthday,5,557,NA,NA
+361,361,Business cards,3,547,NA,NA
+362,362,Cards,2,589,NA,NA
+363,363,Back to school,3,546,NA,NA
+364,364,Cards,2,589,NA,NA
+365,365,Calendars,1,579,NA,NA
+366,366,Blank and general,3,593,NA,NA
+367,367,Back to school,1,546,NA,NA
+368,368,Business plans,3,600,NA,NA
+369,369,Cards,5,589,NA,NA
+370,370,Birthday,5,557,NA,NA
+371,371,Brochures,5,538,NA,NA
+372,372,Announcements,1,512,NA,NA
+373,373,Animation and 3D,3,534,NA,NA
+374,374,Animation and 3D,1,534,NA,NA
+375,375,Animation and 3D,2,534,NA,NA
+376,376,BudgetsBids and quotes,5,565,NA,NA
+377,377,Animation and 3D,1,534,NA,NA
+378,378,Business cards,2,547,NA,NA
+379,379,Blank and general,4,593,NA,NA
+380,380,Animation and 3D,2,534,NA,NA
+381,381,Autumn,2,553,NA,NA
+382,382,Cards,4,589,NA,NA
+383,383,Autumn,5,553,NA,NA
+384,384,Blank and general,1,593,NA,NA
+385,385,Baby,2,539,NA,NA
+386,386,Birthday,2,557,NA,NA
+387,387,Animation and 3D,1,534,NA,NA
+388,388,Business plans,2,600,NA,NA
+389,389,BudgetsBids and quotes,5,565,NA,NA
+390,390,All holidays,3,595,NA,NA
+391,391,All holidays,2,595,NA,NA
+392,392,Christmas,1,547,NA,NA
+393,393,Animation and 3D,1,534,NA,NA
+394,394,Address books,1,568,NA,NA
+395,395,Cards,5,589,NA,NA
+396,396,Autumn,2,553,NA,NA
+397,397,Agendas,2,598,NA,NA
+398,398,Baby,2,539,NA,NA
+399,399,Autumn,4,553,NA,NA
+400,400,Announcements,3,512,NA,NA
+401,401,Address books,3,568,NA,NA
+402,402,Calendars,4,579,NA,NA
+403,403,Birthday,2,557,NA,NA
+404,404,Agendas,3,598,NA,NA
+405,405,BudgetsBids and quotes,2,565,NA,NA
+406,406,Brochures,4,538,NA,NA
+407,407,Back to school,5,546,NA,NA
+408,408,Charts,3,565,NA,NA
+409,409,Business plans,1,600,NA,NA
+410,410,Brochures,2,538,NA,NA
+411,411,Announcements,2,512,NA,NA
+412,412,Blank and general,3,593,NA,NA
+413,413,Calendars,1,579,NA,NA
+414,414,Agendas,2,598,NA,NA
+415,415,BudgetsBids and quotes,2,565,NA,NA
+416,416,Calendars,4,579,NA,NA
+417,417,Address books,4,568,NA,NA
+418,418,Christmas,1,547,NA,NA
+419,419,Certificates,4,559,NA,NA
+420,420,Address books,3,568,NA,NA
+421,421,Address books,4,568,NA,NA
+422,422,Certificates,5,559,NA,NA
+423,423,Brochures,3,538,NA,NA
+424,424,Certificates,4,559,NA,NA
+425,425,Brochures,4,538,NA,NA
+426,426,Business cards,2,547,NA,NA
+427,427,Brochures,3,538,NA,NA
+428,428,All holidays,2,595,NA,NA
+429,429,Back to school,2,546,NA,NA
+430,430,Birthday,4,557,NA,NA
+431,431,Blank and general,5,593,NA,NA
+432,432,Certificates,3,559,NA,NA
+433,433,Agendas,3,598,NA,NA
+434,434,Brochures,1,538,NA,NA
+435,435,Agendas,5,598,NA,NA
+436,436,Business plans,4,600,NA,NA
+437,437,Agendas,4,598,NA,NA
+438,438,Certificates,1,559,NA,NA
+439,439,Baby,1,539,NA,NA
+440,440,Autumn,3,553,NA,NA
+441,441,Charts,3,565,NA,NA
+442,442,Cards,3,589,NA,NA
+443,443,Blank and general,1,593,NA,NA
+444,444,Brochures,1,538,NA,NA
+445,445,Certificates,4,559,NA,NA
+446,446,Calendars,5,579,NA,NA
+447,447,Birthday,2,557,NA,NA
+448,448,Charts,5,565,NA,NA
+449,449,Back to school,3,546,NA,NA
+450,450,Announcements,1,512,NA,NA
+451,451,Back to school,4,546,NA,NA
+452,452,All holidays,4,595,NA,NA
+453,453,Agendas,2,598,NA,NA
+454,454,Agendas,3,598,NA,NA
+455,455,Address books,4,568,NA,NA
+456,456,Announcements,1,512,NA,NA
+457,457,Christmas,4,547,NA,NA
+458,458,Certificates,4,559,NA,NA
+459,459,Charts,5,565,NA,NA
+460,460,Autumn,3,553,NA,NA
+461,461,Address books,2,568,NA,NA
+462,462,Back to school,1,546,NA,NA
+463,463,Baby,4,539,NA,NA
+464,464,Birthday,4,557,NA,NA
+465,465,Back to school,5,546,NA,NA
+466,466,Christmas,2,547,NA,NA
+467,467,Animation and 3D,3,534,NA,NA
+468,468,Back to school,1,546,NA,NA
+469,469,Certificates,3,559,NA,NA
+470,470,Back to school,1,546,NA,NA
+471,471,Charts,5,565,NA,NA
+472,472,Calendars,3,579,NA,NA
+473,473,All holidays,2,595,NA,NA
+474,474,Blank and general,5,593,NA,NA
+475,475,Business cards,3,547,NA,NA
+476,476,Agendas,5,598,NA,NA
+477,477,Cards,4,589,NA,NA
+478,478,Blank and general,5,593,NA,NA
+479,479,Animation and 3D,5,534,NA,NA
+480,480,Agendas,3,598,NA,NA
+481,481,Blank and general,2,593,NA,NA
+482,482,Agendas,4,598,NA,NA
+483,483,BudgetsBids and quotes,2,565,NA,NA
+484,484,All holidays,3,595,NA,NA
+485,485,Back to school,2,546,NA,NA
+486,486,Birthday,3,557,NA,NA
+487,487,Blank and general,2,593,NA,NA
+488,488,Animation and 3D,4,534,NA,NA
+489,489,Calendars,3,579,NA,NA
+490,490,Animation and 3D,2,534,NA,NA
+491,491,Address books,3,568,NA,NA
+492,492,Certificates,3,559,NA,NA
+493,493,Brochures,5,538,NA,NA
+494,494,Cards,4,589,NA,NA
+495,495,Calendars,5,579,NA,NA
+496,496,Calendars,5,579,NA,NA
+497,497,Back to school,4,546,NA,NA
+498,498,Animation and 3D,4,534,NA,NA
+499,499,Autumn,1,553,NA,NA
+500,500,Birthday,3,557,NA,NA
+501,501,BudgetsBids and quotes,5,565,NA,NA
+502,502,Calendars,1,579,NA,NA
+503,503,All holidays,3,595,NA,NA
+504,504,Animation and 3D,1,534,NA,NA
+505,505,Animation and 3D,2,534,NA,NA
+506,506,Animation and 3D,2,534,NA,NA
+507,507,Baby,4,539,NA,NA
+508,508,Christmas,1,547,NA,NA
+509,509,Brochures,3,538,NA,NA
+510,510,Charts,3,565,NA,NA
+511,511,Address books,2,568,NA,NA
+512,512,Baby,5,539,NA,NA
+513,513,Christmas,3,547,NA,NA
+514,514,Charts,5,565,NA,NA
+515,515,Calendars,3,579,NA,NA
+516,516,Blank and general,4,593,NA,NA
+517,517,All holidays,1,595,NA,NA
+518,518,Certificates,1,559,NA,NA
+519,519,Business plans,1,600,NA,NA
+520,520,Business plans,2,600,NA,NA
+521,521,Agendas,1,598,NA,NA
+522,522,Brochures,1,538,NA,NA
+523,523,Charts,3,565,NA,NA
+524,524,Autumn,4,553,NA,NA
+525,525,Christmas,1,547,NA,NA
+526,526,Back to school,2,546,NA,NA
+527,527,Announcements,1,512,NA,NA
+528,528,Address books,5,568,NA,NA
+529,529,Back to school,1,546,NA,NA
+530,530,Cards,1,589,NA,NA
+531,531,Baby,1,539,NA,NA
+532,532,All holidays,3,595,NA,NA
+533,533,Address books,2,568,NA,NA
+534,534,Brochures,1,538,NA,NA
+535,535,Calendars,5,579,NA,NA
+536,536,Business plans,3,600,NA,NA
+537,537,Charts,1,565,NA,NA
+538,538,Address books,3,568,NA,NA
+539,539,Certificates,4,559,NA,NA
+540,540,Calendars,1,579,NA,NA
+541,541,BudgetsBids and quotes,2,565,NA,NA
+542,542,Certificates,4,559,NA,NA
+543,543,Announcements,5,512,NA,NA
+544,544,Calendars,4,579,NA,NA
+545,545,Business plans,3,600,NA,NA
+546,546,Birthday,4,557,NA,NA
+547,547,Brochures,5,538,NA,NA
+548,548,Calendars,4,579,NA,NA
+549,549,Animation and 3D,1,534,NA,NA
+550,550,Christmas,5,547,NA,NA
+551,551,Calendars,2,579,NA,NA
+552,552,Brochures,5,538,NA,NA
+553,553,Address books,1,568,NA,NA
+554,554,Christmas,4,547,NA,NA
+555,555,Brochures,4,538,NA,NA
+556,556,Birthday,1,557,NA,NA
+557,557,Autumn,2,553,NA,NA
+558,558,Back to school,5,546,NA,NA
+559,559,Birthday,2,557,NA,NA
+560,560,Address books,3,568,NA,NA
+561,561,Animation and 3D,3,534,NA,NA
+562,562,Business cards,3,547,NA,NA
+563,563,Back to school,5,546,NA,NA
+564,564,Certificates,1,559,NA,NA
+565,565,Business plans,5,600,NA,NA
+566,566,Address books,3,568,NA,NA
+567,567,Calendars,4,579,NA,NA
+568,568,Charts,5,565,NA,NA
+569,569,Autumn,3,553,NA,NA
+570,570,Address books,5,568,NA,NA
+571,571,Baby,3,539,NA,NA
+572,572,Business plans,3,600,NA,NA
+573,573,Certificates,2,559,NA,NA
+574,574,Animation and 3D,2,534,NA,NA
+575,575,Address books,3,568,NA,NA
+576,576,Baby,5,539,NA,NA
+577,577,Charts,1,565,NA,NA
+578,578,Back to school,2,546,NA,NA
+579,579,Animation and 3D,1,534,NA,NA
+580,580,Brochures,4,538,NA,NA
+581,581,Back to school,5,546,NA,NA
+582,582,Birthday,1,557,NA,NA
+583,583,Business cards,4,547,NA,NA
+584,584,Baby,1,539,NA,NA
+585,585,Christmas,5,547,NA,NA
+586,586,Baby,4,539,NA,NA
+587,587,All holidays,2,595,NA,NA
+588,588,Blank and general,5,593,NA,NA
+589,589,Business plans,1,600,NA,NA
+590,590,Certificates,3,559,NA,NA
+591,591,Blank and general,4,593,NA,NA
+592,592,Blank and general,2,593,NA,NA
+593,593,Business cards,4,547,NA,NA
+594,594,Charts,3,565,NA,NA
+595,595,Christmas,1,547,NA,NA
+596,596,Cards,1,589,NA,NA
+597,597,Autumn,2,553,NA,NA
+598,598,Announcements,1,512,NA,NA
+599,599,Baby,5,539,NA,NA
+600,600,Animation and 3D,2,534,NA,NA
+601,601,Certificates,3,559,NA,NA
+602,602,Announcements,1,512,NA,NA
+603,603,Business cards,4,547,NA,NA
+604,604,Autumn,1,553,NA,NA
+605,605,BudgetsBids and quotes,1,565,NA,NA
+606,606,Blank and general,1,593,NA,NA
+607,607,Business plans,4,600,NA,NA
+608,608,Autumn,4,553,NA,NA
+609,609,Business cards,4,547,NA,NA
+610,610,Birthday,5,557,NA,NA
+611,611,Christmas,3,547,NA,NA
+612,612,Christmas,1,547,NA,NA
+613,613,Blank and general,5,593,NA,NA
+614,614,Blank and general,3,593,NA,NA
+615,615,All holidays,2,595,NA,NA
+616,616,Back to school,4,546,NA,NA
+617,617,Brochures,2,538,NA,NA
+618,618,Birthday,2,557,NA,NA
+619,619,Autumn,4,553,NA,NA
+620,620,Business plans,2,600,NA,NA
+621,621,Business cards,4,547,NA,NA
+622,622,Certificates,3,559,NA,NA
+623,623,Charts,5,565,NA,NA
+624,624,Business plans,3,600,NA,NA
+625,625,Blank and general,3,593,NA,NA
+626,626,Autumn,1,553,NA,NA
+627,627,BudgetsBids and quotes,1,565,NA,NA
+628,628,Address books,2,568,NA,NA
+629,629,Animation and 3D,3,534,NA,NA
+630,630,Charts,4,565,NA,NA
+631,631,Animation and 3D,2,534,NA,NA
+632,632,Autumn,3,553,NA,NA
+633,633,Autumn,4,553,NA,NA
+634,634,Birthday,2,557,NA,NA
+635,635,Certificates,1,559,NA,NA
+636,636,Cards,5,589,NA,NA
+637,637,Business plans,2,600,NA,NA
+638,638,Autumn,5,553,NA,NA
+639,639,Blank and general,4,593,NA,NA
+640,640,Business cards,1,547,NA,NA
+641,641,Certificates,5,559,NA,NA
+642,642,Cards,4,589,NA,NA
+643,643,All holidays,2,595,NA,NA
+644,644,Calendars,4,579,NA,NA
+645,645,Calendars,1,579,NA,NA
+646,646,Animation and 3D,3,534,NA,NA
+647,647,Animation and 3D,2,534,NA,NA
+648,648,Autumn,1,553,NA,NA
+649,649,Cards,5,589,NA,NA
+650,650,Birthday,2,557,NA,NA
+651,651,Back to school,5,546,NA,NA
+652,652,Business cards,1,547,NA,NA
+653,653,Address books,4,568,NA,NA
+654,654,Baby,2,539,NA,NA
+655,655,Announcements,4,512,NA,NA
+656,656,Address books,3,568,NA,NA
+657,657,Announcements,4,512,NA,NA
+658,658,Animation and 3D,5,534,NA,NA
+659,659,Calendars,3,579,NA,NA
+660,660,Agendas,5,598,NA,NA
+661,661,Announcements,4,512,NA,NA
+662,662,Baby,4,539,NA,NA
+663,663,Birthday,5,557,NA,NA
+664,664,Christmas,1,547,NA,NA
+665,665,Address books,2,568,NA,NA
+666,666,Calendars,3,579,NA,NA
+667,667,BudgetsBids and quotes,2,565,NA,NA
+668,668,Autumn,2,553,NA,NA
+669,669,Christmas,5,547,NA,NA
+670,670,Announcements,2,512,NA,NA
+671,671,Announcements,2,512,NA,NA
+672,672,Brochures,5,538,NA,NA
+673,673,Christmas,2,547,NA,NA
+674,674,Charts,5,565,NA,NA
+675,675,Business cards,5,547,NA,NA
+676,676,Blank and general,4,593,NA,NA
+677,677,Agendas,3,598,NA,NA
+678,678,Business cards,3,547,NA,NA
+679,679,Business cards,1,547,NA,NA
+680,680,Announcements,1,512,NA,NA
+681,681,Cards,4,589,NA,NA
+682,682,Autumn,2,553,NA,NA
+683,683,Certificates,4,559,NA,NA
+684,684,BudgetsBids and quotes,5,565,NA,NA
+685,685,Animation and 3D,3,534,NA,NA
+686,686,Blank and general,3,593,NA,NA
+687,687,Announcements,4,512,NA,NA
+688,688,Christmas,3,547,NA,NA
+689,689,Calendars,1,579,NA,NA
+690,690,BudgetsBids and quotes,1,565,NA,NA
+691,691,Cards,4,589,NA,NA
+692,692,Birthday,3,557,NA,NA
+693,693,Address books,2,568,NA,NA
+694,694,Back to school,4,546,NA,NA
+695,695,All holidays,4,595,NA,NA
+696,696,Calendars,1,579,NA,NA
+697,697,Cards,5,589,NA,NA
+698,698,Cards,2,589,NA,NA
+699,699,Announcements,4,512,NA,NA
+700,700,Calendars,4,579,NA,NA
+701,701,Cards,3,589,NA,NA
+702,702,Business plans,1,600,NA,NA
+703,703,Birthday,4,557,NA,NA
+704,704,BudgetsBids and quotes,2,565,NA,NA
+705,705,Charts,5,565,NA,NA
+706,706,Birthday,3,557,NA,NA
+707,707,Christmas,2,547,NA,NA
+708,708,Blank and general,3,593,NA,NA
+709,709,Birthday,2,557,NA,NA
+710,710,Business cards,3,547,NA,NA
+711,711,Announcements,1,512,NA,NA
+712,712,Cards,3,589,NA,NA
+713,713,Brochures,3,538,NA,NA
+714,714,Announcements,1,512,NA,NA
+715,715,BudgetsBids and quotes,5,565,NA,NA
+716,716,Calendars,1,579,NA,NA
+717,717,Calendars,2,579,NA,NA
+718,718,Baby,1,539,NA,NA
+719,719,Birthday,5,557,NA,NA
+720,720,Calendars,1,579,NA,NA
+721,721,Cards,2,589,NA,NA
+722,722,Address books,5,568,NA,NA
+723,723,Blank and general,2,593,NA,NA
+724,724,Autumn,5,553,NA,NA
+725,725,Calendars,4,579,NA,NA
+726,726,Agendas,5,598,NA,NA
+727,727,Baby,1,539,NA,NA
+728,728,Back to school,3,546,NA,NA
+729,729,Christmas,5,547,NA,NA
+730,730,Blank and general,3,593,NA,NA
+731,731,BudgetsBids and quotes,2,565,NA,NA
+732,732,Address books,2,568,NA,NA
+733,733,Animation and 3D,4,534,NA,NA
+734,734,Autumn,3,553,NA,NA
+735,735,Autumn,1,553,NA,NA
+736,736,Certificates,5,559,NA,NA
+737,737,Birthday,1,557,NA,NA
+738,738,Blank and general,3,593,NA,NA
+739,739,Announcements,4,512,NA,NA
+740,740,Birthday,5,557,NA,NA
+741,741,BudgetsBids and quotes,1,565,NA,NA
+742,742,Calendars,1,579,NA,NA
+743,743,Autumn,5,553,NA,NA
+744,744,Address books,3,568,NA,NA
+745,745,BudgetsBids and quotes,2,565,NA,NA
+746,746,Business plans,2,600,NA,NA
+747,747,Christmas,2,547,NA,NA
+748,748,Birthday,2,557,NA,NA
+749,749,Birthday,5,557,NA,NA
+750,750,Christmas,2,547,NA,NA
+751,751,Charts,5,565,NA,NA
+752,752,Address books,3,568,NA,NA
+753,753,BudgetsBids and quotes,5,565,NA,NA
+754,754,Agendas,1,598,NA,NA
+755,755,Christmas,4,547,NA,NA
+756,756,Brochures,2,538,NA,NA
+757,757,Agendas,3,598,NA,NA
+758,758,Agendas,1,598,NA,NA
+759,759,Autumn,3,553,NA,NA
+760,760,Christmas,3,547,NA,NA
+761,761,Autumn,4,553,NA,NA
+762,762,Blank and general,3,593,NA,NA
+763,763,Blank and general,4,593,NA,NA
+764,764,BudgetsBids and quotes,4,565,NA,NA
+765,765,Animation and 3D,3,534,NA,NA
+766,766,Cards,4,589,NA,NA
+767,767,Business cards,3,547,NA,NA
+768,768,Cards,1,589,NA,NA
+769,769,Business cards,5,547,NA,NA
+770,770,Baby,5,539,NA,NA
+771,771,Charts,2,565,NA,NA
+772,772,Blank and general,3,593,NA,NA
+773,773,Address books,5,568,NA,NA
+774,774,BudgetsBids and quotes,1,565,NA,NA
+775,775,Announcements,5,512,NA,NA
+776,776,Agendas,3,598,NA,NA
+777,777,Blank and general,3,593,NA,NA
+778,778,Announcements,4,512,NA,NA
+779,779,Address books,5,568,NA,NA
+780,780,Cards,3,589,NA,NA
+781,781,Charts,2,565,NA,NA
+782,782,Christmas,5,547,NA,NA
+783,783,BudgetsBids and quotes,2,565,NA,NA
+784,784,Christmas,5,547,NA,NA
+785,785,Back to school,2,546,NA,NA
+786,786,Animation and 3D,3,534,NA,NA
+787,787,Baby,5,539,NA,NA
+788,788,Agendas,3,598,NA,NA
+789,789,Calendars,5,579,NA,NA
+790,790,Brochures,2,538,NA,NA
+791,791,BudgetsBids and quotes,5,565,NA,NA
+792,792,Back to school,3,546,NA,NA
+793,793,Back to school,2,546,NA,NA
+794,794,Autumn,3,553,NA,NA
+795,795,Birthday,5,557,NA,NA
+796,796,Certificates,1,559,NA,NA
+797,797,Certificates,1,559,NA,NA
+798,798,Business cards,4,547,NA,NA
+799,799,Business cards,4,547,NA,NA
+800,800,Animation and 3D,4,534,NA,NA
+801,801,Calendars,3,579,NA,NA
+802,802,Address books,2,568,NA,NA
+803,803,Christmas,3,547,NA,NA
+804,804,Birthday,1,557,NA,NA
+805,805,Announcements,5,512,NA,NA
+806,806,Brochures,5,538,NA,NA
+807,807,Brochures,5,538,NA,NA
+808,808,BudgetsBids and quotes,5,565,NA,NA
+809,809,Announcements,2,512,NA,NA
+810,810,Address books,3,568,NA,NA
+811,811,Cards,2,589,NA,NA
+812,812,All holidays,5,595,NA,NA
+813,813,Brochures,3,538,NA,NA
+814,814,Birthday,1,557,NA,NA
+815,815,Business cards,1,547,NA,NA
+816,816,Autumn,2,553,NA,NA
+817,817,Blank and general,5,593,NA,NA
+818,818,Birthday,2,557,NA,NA
+819,819,Business plans,3,600,NA,NA
+820,820,Birthday,3,557,NA,NA
+821,821,Christmas,1,547,NA,NA
+822,822,Animation and 3D,3,534,NA,NA
+823,823,Blank and general,4,593,NA,NA
+824,824,Agendas,5,598,NA,NA
+825,825,Business plans,4,600,NA,NA
+826,826,Birthday,4,557,NA,NA
+827,827,Certificates,3,559,NA,NA
+828,828,Brochures,4,538,NA,NA
+829,829,Back to school,4,546,NA,NA
+830,830,Cards,5,589,NA,NA
+831,831,Business plans,5,600,NA,NA
+832,832,Animation and 3D,5,534,NA,NA
+833,833,All holidays,4,595,NA,NA
+834,834,Autumn,1,553,NA,NA
+835,835,Baby,1,539,NA,NA
+836,836,Back to school,1,546,NA,NA
+837,837,Back to school,2,546,NA,NA
+838,838,Agendas,1,598,NA,NA
+839,839,BudgetsBids and quotes,5,565,NA,NA
+840,840,Baby,3,539,NA,NA
+841,841,Animation and 3D,2,534,NA,NA
+842,842,BudgetsBids and quotes,2,565,NA,NA
+843,843,Address books,2,568,NA,NA
+844,844,Cards,2,589,NA,NA
+845,845,BudgetsBids and quotes,5,565,NA,NA
+846,846,BudgetsBids and quotes,3,565,NA,NA
+847,847,Certificates,3,559,NA,NA
+848,848,Address books,4,568,NA,NA
+849,849,Back to school,1,546,NA,NA
+850,850,Cards,2,589,NA,NA
+851,851,Agendas,2,598,NA,NA
+852,852,Business cards,3,547,NA,NA
+853,853,Baby,1,539,NA,NA
+854,854,BudgetsBids and quotes,3,565,NA,NA
+855,855,BudgetsBids and quotes,3,565,NA,NA
+856,856,Brochures,3,538,NA,NA
+857,857,Certificates,4,559,NA,NA
+858,858,Agendas,4,598,NA,NA
+859,859,Brochures,3,538,NA,NA
+860,860,Cards,3,589,NA,NA
+861,861,Announcements,5,512,NA,NA
+862,862,Address books,4,568,NA,NA
+863,863,Animation and 3D,3,534,NA,NA
+864,864,Agendas,5,598,NA,NA
+865,865,Back to school,2,546,NA,NA
+866,866,BudgetsBids and quotes,2,565,NA,NA
+867,867,Business cards,3,547,NA,NA
+868,868,Autumn,3,553,NA,NA
+869,869,Certificates,4,559,NA,NA
+870,870,Business cards,2,547,NA,NA
+871,871,Business cards,5,547,NA,NA
+872,872,Christmas,4,547,NA,NA
+873,873,Birthday,2,557,NA,NA
+874,874,Charts,4,565,NA,NA
+875,875,Charts,1,565,NA,NA
+876,876,Baby,2,539,NA,NA
+877,877,Baby,1,539,NA,NA
+878,878,Calendars,1,579,NA,NA
+879,879,All holidays,3,595,NA,NA
+880,880,Certificates,2,559,NA,NA
+881,881,All holidays,4,595,NA,NA
+882,882,Blank and general,1,593,NA,NA
+883,883,Business cards,2,547,NA,NA
+884,884,Christmas,2,547,NA,NA
+885,885,BudgetsBids and quotes,1,565,NA,NA
+886,886,Business cards,1,547,NA,NA
+887,887,Baby,5,539,NA,NA
+888,888,Charts,3,565,NA,NA
+889,889,Cards,4,589,NA,NA
+890,890,Baby,3,539,NA,NA
+891,891,Back to school,3,546,NA,NA
+892,892,Back to school,2,546,NA,NA
+893,893,Charts,4,565,NA,NA
+894,894,Address books,2,568,NA,NA
+895,895,Birthday,3,557,NA,NA
+896,896,Back to school,3,546,NA,NA
+897,897,Address books,4,568,NA,NA
+898,898,Cards,1,589,NA,NA
+899,899,Brochures,2,538,NA,NA
+900,900,Cards,5,589,NA,NA
+901,901,Business cards,2,547,NA,NA
+902,902,Baby,2,539,NA,NA
+903,903,Certificates,4,559,NA,NA
+904,904,Agendas,5,598,NA,NA
+905,905,Christmas,3,547,NA,NA
+906,906,Agendas,5,598,NA,NA
+907,907,Christmas,3,547,NA,NA
+908,908,Announcements,1,512,NA,NA
+909,909,Agendas,2,598,NA,NA
+910,910,Business plans,2,600,NA,NA
+911,911,All holidays,2,595,NA,NA
+912,912,Calendars,1,579,NA,NA
+913,913,Business plans,5,600,NA,NA
+914,914,Announcements,4,512,NA,NA
+915,915,Blank and general,3,593,NA,NA
+916,916,Cards,1,589,NA,NA
+917,917,Charts,1,565,NA,NA
+918,918,Blank and general,3,593,NA,NA
+919,919,Business cards,4,547,NA,NA
+920,920,BudgetsBids and quotes,5,565,NA,NA
+921,921,Certificates,3,559,NA,NA
+922,922,Brochures,4,538,NA,NA
+923,923,Christmas,3,547,NA,NA
+924,924,Back to school,5,546,NA,NA
+925,925,Brochures,1,538,NA,NA
+926,926,Business cards,1,547,NA,NA
+927,927,All holidays,1,595,NA,NA
+928,928,Animation and 3D,3,534,NA,NA
+929,929,Business plans,3,600,NA,NA
+930,930,Brochures,5,538,NA,NA
+931,931,Cards,1,589,NA,NA
+932,932,Christmas,5,547,NA,NA
+933,933,Back to school,4,546,NA,NA
+934,934,Charts,2,565,NA,NA
+935,935,Birthday,3,557,NA,NA
+936,936,Charts,1,565,NA,NA
+937,937,Baby,2,539,NA,NA
+938,938,Autumn,4,553,NA,NA
+939,939,Address books,1,568,NA,NA
+940,940,Brochures,5,538,NA,NA
+941,941,Certificates,2,559,NA,NA
+942,942,Back to school,4,546,NA,NA
+943,943,Cards,5,589,NA,NA
+944,944,Autumn,2,553,NA,NA
+945,945,Baby,4,539,NA,NA
+946,946,Brochures,2,538,NA,NA
+947,947,Charts,3,565,NA,NA
+948,948,Autumn,3,553,NA,NA
+949,949,Certificates,3,559,NA,NA
+950,950,Autumn,4,553,NA,NA
+951,951,BudgetsBids and quotes,3,565,NA,NA
+952,952,All holidays,3,595,NA,NA
+953,953,Cards,2,589,NA,NA
+954,954,Back to school,2,546,NA,NA
+955,955,Blank and general,3,593,NA,NA
+956,956,Business cards,1,547,NA,NA
+957,957,Charts,3,565,NA,NA
+958,958,Agendas,3,598,NA,NA
+959,959,Charts,5,565,NA,NA
+960,960,Birthday,2,557,NA,NA
+961,961,Autumn,1,553,NA,NA
+962,962,Certificates,4,559,NA,NA
+963,963,Autumn,1,553,NA,NA
+964,964,Baby,4,539,NA,NA
+965,965,Animation and 3D,2,534,NA,NA
+966,966,Certificates,5,559,NA,NA
+967,967,All holidays,1,595,NA,NA
+968,968,Back to school,2,546,NA,NA
+969,969,Back to school,4,546,NA,NA
+970,970,Cards,2,589,NA,NA
+971,971,Brochures,5,538,NA,NA
+972,972,Birthday,4,557,NA,NA
+973,973,Blank and general,2,593,NA,NA
+974,974,All holidays,2,595,NA,NA
+975,975,All holidays,3,595,NA,NA
+976,976,Back to school,2,546,NA,NA
+977,977,Charts,1,565,NA,NA
+978,978,Christmas,1,547,NA,NA
+979,979,Calendars,3,579,NA,NA
+980,980,Announcements,5,512,NA,NA
+981,981,BudgetsBids and quotes,1,565,NA,NA
+982,982,Cards,1,589,NA,NA
+983,983,Agendas,1,598,NA,NA
+984,984,Certificates,2,559,NA,NA
+985,985,Animation and 3D,5,534,NA,NA
+986,986,Business plans,5,600,NA,NA
+987,987,Brochures,3,538,NA,NA
+988,988,Brochures,4,538,NA,NA
+989,989,Back to school,2,546,NA,NA
+990,990,All holidays,4,595,NA,NA
+991,991,Autumn,1,553,NA,NA
+992,992,BudgetsBids and quotes,3,565,NA,NA
+993,993,Blank and general,2,593,NA,NA
+994,994,Birthday,5,557,NA,NA
+995,995,Blank and general,5,593,NA,NA
+996,996,Birthday,4,557,NA,NA
+997,997,BudgetsBids and quotes,4,565,NA,NA
+998,998,Christmas,3,547,NA,NA
+999,999,Back to school,2,546,NA,NA
